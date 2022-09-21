@@ -1,4 +1,4 @@
-# Machine-Learning
+# ML & DL
 
 ## Machine Learning Framework:
 
